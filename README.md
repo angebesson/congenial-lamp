@@ -1,3 +1,6 @@
+In this exercise we create a component like the followers in X
+
+Technologies:
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
